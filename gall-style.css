@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(61, 61, 61);
+    border: 2;
+   
+}
+.head{
+    background-image:url('./img/header1.jpg') ;
+    background-size: cover;
+    height: 15rem;
+    font-family: 'Amatic SC';
+    color: rgb(237, 246, 255);
+    text-align: center;
+    font-size: 30px;
+}
+#hdg{
+    padding-top: 5rem;
+    font-weight: bolder;
+    letter-spacing: 2px;   
+    text-shadow: 1px 1px 20px white;
+}
+.main{
+    background-color: aliceblue;
+    width:1503px;
+    height: 50vw;
+    opacity: 95%;
+}
+
+.bimg1 {
+    width: 328px;
+    height: 328px;
+    border: 2px solid rgb(205, 202, 202);
+    box-shadow: 1px 1px 20px rgb(114 114 114 / 88%);
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+

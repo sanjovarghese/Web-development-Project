@@ -1,0 +1,119 @@
+
+body
+{
+background-image: url('https://images.unsplash.com/photo-1431068799455-80bae0caf685?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80');
+background-size: cover;
+text-align: center;
+background-attachment: scroll;
+color: #050505c7;
+font-size: 25px;
+font-weight: 50px;
+font-family: 'Bebas Neue';
+text-shadow: 0px 1px 10px #2c2b2b;
+
+}
+
+.center {
+    margin: auto;
+    width: 702px;
+    height: 488px;
+    border: 3px solid #ffefcb9a;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 7.5rem;
+    margin-bottom: 5rem;
+    border-radius: 50px;
+    background-color: #ffefcb9a;
+}
+    
+ .center:hover{
+    box-shadow: 1px 1px 100px #020202;
+}
+#log{
+    font-size: 45px;
+    margin-bottom: 9px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.box{
+    text-align: center;
+    padding: 7px;
+    margin-left: 65px;
+    
+    border-radius: 50px;
+    border-style: none;
+    background-color: rgba(255, 255, 255, 0.667);
+}
+.box:hover{
+    border-style: solid;
+    border-color: black;
+    box-shadow:0px 1px 10px #2c2b2b ;
+}
+#us2{
+    margin-top: 9px;
+}
+.d {
+    margin-left: 29px;
+}
+.tab {
+    margin-top: 7px;
+    text-align: left;
+    padding-left: 192px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 40px;
+}
+.sp{
+    padding-top: 9px;
+}
+.v{
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+   
+}
+.but {
+    padding: 10px;
+    padding-left: 27px;
+    padding-right: 30px;
+    border-radius: 50px;
+    margin-left: 108px;
+    background-color: rgba(255, 255, 255, 0.667);
+    border-style: none;
+}
+.but:hover{
+    border-style: solid;
+    border-color: black;
+    box-shadow:0px 1px 10px #2c2b2b ;
+}
+#occ{
+    padding: 3px;
+}
+textarea{
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 10px;
+    background-color:rgba(255, 255, 255, 0.667) ;
+}
+textarea:hover{
+    border-style: solid;
+    border-color: black;
+    box-shadow:0px 1px 10px #2c2b2b ;
+}
+.regis {
+    font-weight:bolder;
+    font-family: 'Bebas Neue';
+font-family: 'Inconsolata', monospace;
+    text-decoration: none;
+    text-shadow: none;
+    margin-top: -40px;
+    font-size: medium;
+    padding-left: 48px;
+}
+
+
+
+
+
+
+
+

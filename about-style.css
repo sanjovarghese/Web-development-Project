@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'hello';
+    src: url('./JMH\ Typewriter-Bold.ttf');
+}
+body{
+    background-image: url('./img/wallpaperflare.com_wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-size: fixed;
+}
+.abt {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 51px;
+    /* font-family: 'Amatic SC', cursive; */
+    /* font-family: 'Bilbo Swash Caps', cursive; */
+    /* font-family: 'Finger Paint', cursive; */
+    font-family: 'Fredericka the Great', cursive;
+    /* font-family: 'Major Mono Display', monospace; */
+    /* font-family: 'Square Peg', cursive; */
+}
+.card {
+    padding-left: 3rem;
+    padding-top: 3rem;
+    background-color: rgba(248, 248, 248, 0.763);
+    margin: auto;
+    position: relative;
+    top: 4rem;
+    font-family: 'hello';
+    width: 42rem;
+    height: 274px;
+    border-radius: 50px;
+    border: 4px solid rgba(66,66,66,255);
+    box-shadow: 1px 1px 60px rgba(227,227,227,255);
+}
+.cardh {
+    text-align: center;
+    margin-left: 116px;
+    color: rgb(56, 56, 56);
+    margin-right: 3rem;
+}
+.text {
+  
+   
+    float: right;
+    margin-top: -13rem;
+    width: 574px;
+    height: 306px;
+    margin-right: 22px;
+    font-size: 18px;
+    font-weight: bold;
+   
+}
+.pro {
+    
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid rgb(113, 113, 113);
+    box-shadow: 1px 1px 20px rgb(89 89 88);
+}
+.para {
+    width: 25rem;
+    height: 8rem;
+    text-align: justify;
+    margin-inline: 103px;
+    padding-bottom: 46px;
+    padding-inline: 14px;
+}
+.cap{
+font-size: 13px;
+ width: 170px;
+text-align: center;}
+figcaption{
+    text-align: left;
+   
+    margin-left: 3rem;
+    padding-top: 8px;
+}

@@ -1,0 +1,109 @@
+
+body{
+    background-image: url("./img/bg1.jpg"); /* The image used */
+    background-color: #000000; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+
+img{
+    width: 70px;
+    height: 40px;
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: -50px;
+}
+
+.nav{
+    margin-left: 2rem;
+    margin-top: 1rem;
+    display: inline-block;  
+}
+li 
+{   
+    list-style: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(188, 188, 188);
+    margin: auto;
+    font-size: 30px;
+    padding: 21px;
+    float: left;
+    font-weight: 50;
+    font-size: small;
+    text-transform: uppercase;
+}
+.hom1{
+    border-width: 40px;
+    background-color: rgb(55, 56, 57);
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    margin-left: 15px;
+    font-weight: bold;
+}
+.hom1:hover{
+    color: rgb(242, 159, 70);
+    background-color: rgb(231, 231, 231);
+    box-shadow: 10px,10px 5px rgb(38, 204, 255);
+}
+.cpname{
+    color: aliceblue;
+    display: inline;
+    position: absolute;
+    top:40px;
+    right:40px;
+    font-size: 20px;
+    font-weight: 10px;
+    font-family: 'Akshar', sans-serif;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Major Mono Display', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+}
+.card{
+    background-color: rgba(62, 62, 62, 0.521);
+    margin: auto;
+    position: relative;
+    top: 10rem;
+    text-align: center; 
+    align-items: center;
+    width: 60rem;
+    height: 210px;
+    font-family: 'Square Peg', cursive;
+}
+.cardh {
+padding-top:  4rem;
+color: rgb(203, 204, 205);
+font-size: 30px;
+letter-spacing: 2px;
+}
+.cardp{
+    color: rgb(203, 204, 205);
+    font-weight: 400px;
+    font-size: 30px;
+}
+
+i{
+    font-size: 15px;
+    margin-right: 5px;
+}
+
+
+
+#foot{
+    background-color: rgb(22, 22, 21);
+    color: rgb(217, 208, 208);
+    margin-top: 20rem;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Akshar', sans-serif;
+    font-family: 'Major Mono Display', monospace;
+    align-items: center;
+  
+    
+       
+}

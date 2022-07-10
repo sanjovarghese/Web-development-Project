@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(61, 61, 61);
+    border: 2;
+   
+}
+.head{
+    background-image:url('./img/n.jpg') ;
+    background-size: cover;
+    height: 15rem;
+    font-family: 'Amatic SC';
+    color: rgb(237, 246, 255);
+    text-align: center;
+    font-size: 30px;
+}
+#hdg{
+    padding-top: 5rem;
+    font-weight: bolder;
+    letter-spacing: 2px;   
+    text-shadow: 1px 1px 20px white;
+}
+.main{
+    background-color: aliceblue;
+    width:1503px;
+    height: 50vw;
+    opacity: 95%;
+}
+
+.bimg1 {
+    width: 328px;
+    height: 328px;
+    border: 2px solid rgb(205, 202, 202);
+    box-shadow: 1px 1px 20px rgb(114 114 114 / 88%);
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.but{
+    padding: 10px 20px;
+    border-radius: 50px;
+    background-color: rgb(53, 49, 49);
+    border-style: none;
+    margin-top: 20px;
+    color: azure;
+    
+}
+
+.folder{
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 5px;
+}
